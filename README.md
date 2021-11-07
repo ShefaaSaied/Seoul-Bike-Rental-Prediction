@@ -64,11 +64,11 @@ above 1.2 --> high
 - Adding column of total solar radiation per day.
 - Adding column to identify days where there is no rain and snow combined and days of any.
 - Adding K-means clustering column of temperature and dew point temp cols.
-- Applying K-means clustering on the dataset but after scaling.
+- Applying K-means clustering on the dataset but after scaling.\
 \
 4- Categorical features encoding:
 - Binary encode 'Functioning Day' and 'Holiday' features.
-- Target-based encoding for 'dow', 'month', 'Seasons' and 'Hour' columns.
+- Target-based encoding for 'dow', 'month', 'Seasons' and 'Hour' columns.\
 \
 5- Feature Scaling:\
 Based on the data distribution we noticed that some features follow normal distribution, some are left or right skewed, so we will apply different scaling techniques based on the feature nature and by several trials these scaling techniques gave best results:
