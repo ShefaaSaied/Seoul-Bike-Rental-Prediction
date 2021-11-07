@@ -84,17 +84,20 @@ Based on the data distribution we noticed that some features follow normal distr
 
 ### Results
 The used metrics are RMSLE, RMSE and R2-score.
-- Training set:\ 
+- Training set:
+\
 RMSLE= 0.2096\
 RMSE= 114.4508\
 R2-score= 0.9695
 
-- Validation set:\ 
+- Validation set:
+\
 RMSLE= 0.1428\
 RMSE= 100.1943\
 R2-score= 0.9754
 
-- Test set:\
+- Test set:
+\
 RMSLE= 0.3657\
 RMSE= 173.0572\
 R2-score= 0.9233
