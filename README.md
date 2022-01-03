@@ -2,10 +2,10 @@
 ![alt text](https://images.squarespace-cdn.com/content/v1/5bcfc8c07a1fbd730b2ba933/1556234236204-CHXB0WLKA5JBKD7AB6X7/IMG_1235.jpg?format=1500w)
 
 ## Problem
-Currently Rental bikes are widely used for enhancement of mobility comfort and it is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. The constant raise of users necessitates the existance of a bike rental system to predict the rental rate at each hour of the day.\
+Currently Rental bikes are widely used for enhancement of mobility comfort and it is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. The constant raise of users necessitates the existance of a bike rental system to predict the rental rate at each hour of the day.
 
-The dataset used in this project is obtained from [UC Irvine Machine Learning Repository - Seoul Bike Sharing Demand Dataset](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand#)\
-It contains count of public bikes rented at each hour for every day during a full year from 12-2017 to 12-2018 in Seoul(Japan) Bike haring System with the corresponding Weather data and Holidays information.\
+The dataset used in this project is obtained from [UC Irvine Machine Learning Repository - Seoul Bike Sharing Demand Dataset](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand#)
+It contains count of public bikes rented at each hour for every day during a full year from 12-2017 to 12-2018 in Seoul(Japan) Bike haring System with the corresponding Weather data and Holidays information.
 
 **Data fields:**
 - ID - an ID for this instance
